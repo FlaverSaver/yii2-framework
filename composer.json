@@ -41,6 +41,7 @@
 			"role": "Core framework development"
 		}
 	],
+	"minimum-stability": "dev",
 	"support": {
 		"issues": "https://github.com/yiisoft/yii2/issues?state=open",
 		"forum": "http://www.yiiframework.com/forum/",
